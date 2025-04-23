@@ -44,7 +44,8 @@ Objectif : te familiariser avec l’interface côté enseignant, structurer ton 
 ## 🔗 Activité interactive
 👉 [Quiz Moodle sur LearningApps](https://learningapps.org/display?v=p3s0n5rva25) *(lien fictif à remplacer par le vrai quand tu l’as)*
 
-<iframe mozallowfullscreen="true" src="https://learningapps.org/watch?v=pm8ni5qwj19" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true"></iframe>
+<iframe width="560" height="315" src="https://learningapps.org/watch?v=pm8ni5qwj19" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 
 Ce quiz te permet de vérifier que tu maîtrises les bases de la semaine. Tu peux le modifier, le cloner ou en créer un nouveau avec ton compte enseignant.
