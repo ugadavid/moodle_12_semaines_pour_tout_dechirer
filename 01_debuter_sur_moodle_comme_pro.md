@@ -44,7 +44,6 @@ Objectif : te familiariser avec l’interface côté enseignant, structurer ton 
 ## 🔗 Activité interactive
 👉 [Quiz Moodle sur LearningApps](https://learningapps.org/display?v=p3s0n5rva25) *(lien fictif à remplacer par le vrai quand tu l’as)*
 
-<iframe width="560" height="315" src="https://learningapps.org/watch?v=pm8ni5qwj19" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 
